@@ -1,0 +1,6 @@
+*   a6d33a7 merge branch v1 to v2
+|\  
+| * 07fa95f docs: new comment v1
+* | 57e098d docs: new comment v2
+|/  
+* d4a6ff8 inisiasi github
